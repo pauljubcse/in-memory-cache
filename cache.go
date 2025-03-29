@@ -1,4 +1,4 @@
-package cache
+package in_memory_cache
 
 type LRUCache[K comparable, V any] struct {
 	capacity int
