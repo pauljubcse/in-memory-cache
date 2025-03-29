@@ -1,4 +1,4 @@
-package cache
+package in_memory_cache
 
 type Node[K comparable, V any] struct {
 	key   K
