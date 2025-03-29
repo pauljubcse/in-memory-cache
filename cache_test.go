@@ -1,4 +1,4 @@
-package cache
+package in_memory_cache
 
 import (
 	"testing"
